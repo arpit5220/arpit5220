@@ -7,8 +7,8 @@
 <br>
 
 <!-- - 👋 Hi, I’m Arpit Katiyar -->
-- 🌱 I’m currently working on DSA and Problem Solving...
-- 👀 I'am Very much Interested in open source.
+- 🌱 Like DSA and Problem Solving...
+- 👀 I'am Very interested in open source.
 - 💬 Ask me about **Java, Data Structures, Algorithms, Web Development.**
 - 💬 I am interested in  **Java, Spring, SpringBoot, Hibernate, RestAPI, Microservices, React.**
 - 💬 You Can Collaborate with me to work on a Java project.
